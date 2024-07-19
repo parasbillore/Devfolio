@@ -13,7 +13,7 @@ const Modal = ({ onClose, toggle }) => {
             "
       >
         <p>Hey Folks</p>
-        <p>I'm<span className="text-accent">Paras Billore</span></p>
+        <p>I&apos;m<span className="text-accent">Paras Billore</span></p>
         <p>Hii there, I am a Software Developer, Please visit the links below to know more about me !!  </p>
         <p className="font-light">Do you like to play the background music?</p>
         <div className="flex items-center justify-center space-x-4">
