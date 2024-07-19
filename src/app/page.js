@@ -24,7 +24,7 @@ export default function Home() {
       <div className="fixed text-center font-bold justify-center lg:left-0 p-2">
         <p>Hey Folks</p>
         <p>
-          I'm{" "}
+          I&apos;m{" "}
           <span className="text-accent font-serif text-2xl font-extrabold ">Paras Billore</span>
         </p>
         <p className="text-center py-1 text-xs text-foreground ">Explore to delve into my expertise as a Software Developer.</p>
