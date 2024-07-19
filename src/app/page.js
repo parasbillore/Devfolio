@@ -5,7 +5,7 @@ import RenderModel from "@/components/RenderModel";
 import Navigation from "@/components/navigation";
 
 import dynamic from "next/dynamic";
-const Wizard = dynamic(() => import("@/components/models/Wizard"), {
+const Wizard = dynamic(() => import("../components/models/Wizard"), {
   ssr: false,
 });
 
